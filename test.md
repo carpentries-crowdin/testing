@@ -7,4 +7,5 @@ Welcome to The Carpentries Handbook! Here, you will find a collection of informa
 * Eat ice cream
 * Go for a walk
 * Watch a movie with your friend
+* Eat some more ice cream 
 
